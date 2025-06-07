@@ -45,6 +45,11 @@
     --fs-xl: 1.5rem;
     --fs-2xl: 2.5rem;
 
+    --padding-x-lg: 1.5rem;
+    
+    --padding-y-base: 1rem;
+    --padding-y-lg: 1.5rem;
+    --padding-y-xl: 3rem;
 }
 
 html{ 
@@ -101,5 +106,11 @@ ul[role="list"]{
         --fs-lg: 2rem;
         --fs-xl: 3rem;
         --fs-2xl: 4rem;
+
+        --padding-x-lg: 2rem;
+
+        --padding-y-base: 1.5rem;
+        --padding-y-lg: 2.5rem;
+        --padding-y-xl: 5rem;
     }
 }
