@@ -1,11 +1,13 @@
-@import url(global.css);
-@import url(utility.css);
-@import url(buttons.css);
-@import url(social.css);
-@import url(header.css);
-@import url(hero.css);
-@import url(sections.css);
-@import url(about.css);
-@import url(cards.css);
+@import url(global.css);                        /* ==== Global ==== */
+@import url(utility.css);                       /* ==== Utilidades ==== */
+@import url(buttons.css);                       /* ==== Botões ==== */
+@import url(social.css);                        /* ==== Social ==== */
+@import url(header.css);                        /* ==== Cabeçalho ==== */
+@import url(hero.css);                          /* ==== Principal ==== */
+@import url(sections.css);                      /* ==== Seções ==== */
+@import url(about.css);                         /* ==== Sobre ==== */
+@import url(cards.css);                         /* ==== Cartões ==== */
 
-@import url(features.css) (width >= 80rem);
+@import url(features.css) (width >= 80rem);     /* ==== Caracteristicas (Apenas no desktop) ==== */
+
+@import url(pricing.css);                       /* ==== Planos ==== */
